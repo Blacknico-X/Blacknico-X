@@ -11,6 +11,9 @@ i'm blacknico-X
 -  😄 Pronouns: ...
 -  ⚡ Fun fact: ...
 
+#### සරල ක්‍රමය
+
+#### ඔබට පහසුවෙන්ම Repl.it මඟින් QR ගන්න පුලුවන්..පහල  බටනය භාවිත කරන්න
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Blacknico-X/Franky-QR?v=1)
 
 <!--
